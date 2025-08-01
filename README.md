@@ -1,4 +1,4 @@
-This code creates a basic calculator that includes : 
+This code creates a basic calculator that includes : ->
 Asks for two numbers and an operator
 Performs the operation based on the operator
 Handles division by zero and invalid operators
